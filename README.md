@@ -1,2 +1,1 @@
-# NewsApp
-A simple news website built with HTML, CSS, and JavaScript, utilizing **NewsAPI.org** to fetch and display real-time news updates.
+This project is a news website built using **HTML**, **CSS**, and **JavaScript**, which fetches real-time news articles from **NewsAPI.org**. It dynamically displays the latest headlines and news stories categorized by topics such as technology, sports, and business. The site features a responsive design for an optimal user experience across devices, with seamless updates from the API ensuring the content is always current. This project demonstrates the integration of external APIs and front-end development for a clean, user-friendly news portal.
